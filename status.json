@@ -1,36 +1,41 @@
 {
-  "generated_at": "2026-08-07T08:20:03+08:00",
+  "schema_version": "2.0",
+  "report_date": "2026-08-07",
+  "generated_at": "2026-08-07T10:47:09+08:00",
   "complete": true,
-  "active_record_count": 202,
-  "new_today_count": 2,
+  "active_record_count": 208,
+  "new_today_count": 12,
+  "scope_note": "已扫描培训、评价、竞赛、专家培养四个核心POST接口。page1认定公告和其他外部渠道本轮尚未接入，不计入完整性判断。",
   "interfaces": {
     "training": {
       "ok": true,
-      "unique_before_filter": 145,
-      "errors": []
+      "unique_before_filter": 159,
+      "source_type": "平台技能培训报名",
+      "error_count": 0
     },
     "evaluation": {
       "ok": true,
       "unique_before_filter": 88,
-      "errors": []
+      "source_type": "平台技能评价报名",
+      "error_count": 0
     },
     "competition": {
       "ok": true,
       "unique_before_filter": 19,
-      "errors": []
+      "source_type": "平台技能竞赛报名",
+      "error_count": 0
     },
     "expert": {
       "ok": true,
       "unique_before_filter": 1,
-      "errors": []
+      "source_type": "平台专家培养报名",
+      "error_count": 0
     }
   },
-  "scope_note": "已扫描培训、评价、竞赛、专家培养四个核心POST接口的全部关键词。page1认定公告和其他外部渠道暂未纳入本程序。",
   "files": {
-    "html": "http://121.196.157.37/zj-skill/8ca7282eda3fbd198dcaa19c8c9adbb0/latest.html",
-    "xlsx": "http://121.196.157.37/zj-skill/8ca7282eda3fbd198dcaa19c8c9adbb0/latest.xlsx",
-    "json": "http://121.196.157.37/zj-skill/8ca7282eda3fbd198dcaa19c8c9adbb0/latest.json"
-  },
-  "core_count": 122,
-  "extended_count": 80
+    "index": "./index.html",
+    "html": "./latest.html",
+    "json": "./latest.json",
+    "xlsx": "./latest.xlsx"
+  }
 }
