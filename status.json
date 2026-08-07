@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-08-07T08:20:03+08:00",
+  "complete": true,
+  "active_record_count": 202,
+  "new_today_count": 2,
+  "interfaces": {
+    "training": {
+      "ok": true,
+      "unique_before_filter": 145,
+      "errors": []
+    },
+    "evaluation": {
+      "ok": true,
+      "unique_before_filter": 88,
+      "errors": []
+    },
+    "competition": {
+      "ok": true,
+      "unique_before_filter": 19,
+      "errors": []
+    },
+    "expert": {
+      "ok": true,
+      "unique_before_filter": 1,
+      "errors": []
+    }
+  },
+  "scope_note": "已扫描培训、评价、竞赛、专家培养四个核心POST接口的全部关键词。page1认定公告和其他外部渠道暂未纳入本程序。",
+  "files": {
+    "html": "http://121.196.157.37/zj-skill/8ca7282eda3fbd198dcaa19c8c9adbb0/latest.html",
+    "xlsx": "http://121.196.157.37/zj-skill/8ca7282eda3fbd198dcaa19c8c9adbb0/latest.xlsx",
+    "json": "http://121.196.157.37/zj-skill/8ca7282eda3fbd198dcaa19c8c9adbb0/latest.json"
+  },
+  "core_count": 122,
+  "extended_count": 80
+}
