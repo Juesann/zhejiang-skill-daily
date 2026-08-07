@@ -1,7 +1,7 @@
 {
   "schema_version": "2.2",
   "report_date": "2026-08-07",
-  "generated_at": "2026-08-07T14:22:27+08:00",
+  "generated_at": "2026-08-07T14:44:24+08:00",
   "complete": true,
   "scope_note": "培训在关键词列表命中后逐条核验详情，仅保留目标取得证书含技能等级认定证书的计划；竞赛采用全量列表并逐条扫描竞赛项目详情。评价和专家培养继续按关键词扫描。page1认定公告和其他外部渠道本轮尚未接入，不计入完整性判断。",
   "summary": {
@@ -24,9 +24,9 @@
     "first_seen_today": 11
   },
   "collection_stats": {
-    "training_detail_checked": 159,
-    "training_excluded_no_skill_certificate": 56,
-    "competition_detail_scanned": 129,
+    "training_detail_checked": 158,
+    "training_excluded_no_skill_certificate": 55,
+    "competition_detail_scanned": 127,
     "competition_detail_only_matches": 5
   },
   "data_quality": {
@@ -39,7 +39,7 @@
   "interfaces": {
     "training": {
       "ok": true,
-      "unique_before_filter": 159,
+      "unique_before_filter": 158,
       "source_type": "平台技能培训报名",
       "error_count": 0
     },
@@ -51,7 +51,7 @@
     },
     "competition": {
       "ok": true,
-      "unique_before_filter": 129,
+      "unique_before_filter": 127,
       "source_type": "平台技能竞赛报名",
       "error_count": 0
     },
@@ -1373,7 +1373,7 @@
       ],
       "occupation": "数字化解决方案设计师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "杭州 / 上城区",
       "regions": [
         "杭州",
@@ -1790,7 +1790,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "嘉兴",
       "regions": [
         "嘉兴"
@@ -1839,7 +1839,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "杭州",
       "regions": [
         "杭州"
@@ -1888,7 +1888,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "嘉兴",
       "regions": [
         "嘉兴"
@@ -2221,7 +2221,7 @@
       ],
       "occupation": "数字化解决方案设计师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -2317,7 +2317,7 @@
       ],
       "occupation": "数字化解决方案设计师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -2367,7 +2367,7 @@
       ],
       "occupation": "互联网营销师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -2465,7 +2465,7 @@
       ],
       "occupation": "互联网营销师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -2610,7 +2610,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "杭州",
       "regions": [
         "杭州"
@@ -2659,7 +2659,7 @@
       ],
       "occupation": "信息通信网络运行管理员",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -2707,7 +2707,7 @@
       ],
       "occupation": "建筑信息模型技术员",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -3549,7 +3549,7 @@
       ],
       "occupation": "计算机程序设计员",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -3881,7 +3881,7 @@
       ],
       "occupation": "计算机程序设计员",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -4278,7 +4278,7 @@
       ],
       "occupation": "物联网安装调试员",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -4490,7 +4490,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "杭州 / 钱塘区",
       "regions": [
         "杭州",
@@ -4543,7 +4543,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "杭州 / 钱塘区",
       "regions": [
         "杭州",
@@ -4697,7 +4697,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "杭州",
       "regions": [
         "杭州"
@@ -4749,7 +4749,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "杭州",
       "regions": [
         "杭州"
@@ -4801,7 +4801,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "杭州 / 余杭区",
       "regions": [
         "杭州",
@@ -4854,7 +4854,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "杭州 / 余杭区",
       "regions": [
         "杭州",
@@ -4907,7 +4907,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "杭州",
       "regions": [
         "杭州"
@@ -4959,7 +4959,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "杭州",
       "regions": [
         "杭州"
@@ -5117,7 +5117,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "杭州 / 上城区",
       "regions": [
         "杭州",
@@ -5595,7 +5595,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "杭州 / 上城区",
       "regions": [
         "杭州",
@@ -6319,7 +6319,7 @@
       ],
       "occupation": "建筑信息模型技术员",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "温州",
       "regions": [
         "温州"
@@ -6556,7 +6556,7 @@
       ],
       "occupation": "网络与信息安全管理员",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "杭州",
       "regions": [
         "杭州"
@@ -6994,7 +6994,7 @@
       ],
       "occupation": "网络与信息安全管理员",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -7088,7 +7088,7 @@
       ],
       "occupation": "建筑信息模型技术员",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -10608,7 +10608,7 @@
       ],
       "occupation": "数字化解决方案设计师",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "杭州 / 上城区",
       "regions": [
         "杭州",
@@ -11025,7 +11025,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "嘉兴",
       "regions": [
         "嘉兴"
@@ -11074,7 +11074,7 @@
       ],
       "occupation": "人工智能训练师",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "杭州",
       "regions": [
         "杭州"
@@ -11215,7 +11215,7 @@
       ],
       "occupation": "计算机程序设计员",
       "level_or_type": "高级技师",
-      "level_group": "技师及高级技师",
+      "level_group": "高级技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -11547,7 +11547,7 @@
       ],
       "occupation": "计算机程序设计员",
       "level_or_type": "技师",
-      "level_group": "技师及高级技师",
+      "level_group": "技师",
       "region": "",
       "regions": [],
       "region_source": "",
@@ -12433,10 +12433,10 @@
       "category": "training",
       "keyword": "人工智能",
       "ok": true,
-      "reported_total": 59,
-      "actual_rows": 60,
+      "reported_total": 58,
+      "actual_rows": 59,
       "pages": 3,
-      "deduplicated_count": 99,
+      "deduplicated_count": 98,
       "note": "接口total与实际rows不一致"
     },
     {
@@ -12444,9 +12444,9 @@
       "keyword": "数字",
       "ok": true,
       "reported_total": 19,
-      "actual_rows": 21,
+      "actual_rows": 20,
       "pages": 1,
-      "deduplicated_count": 113,
+      "deduplicated_count": 112,
       "note": "接口total与实际rows不一致"
     },
     {
@@ -12456,7 +12456,7 @@
       "reported_total": 18,
       "actual_rows": 18,
       "pages": 1,
-      "deduplicated_count": 131,
+      "deduplicated_count": 130,
       "note": ""
     },
     {
@@ -12466,7 +12466,7 @@
       "reported_total": 9,
       "actual_rows": 11,
       "pages": 1,
-      "deduplicated_count": 142,
+      "deduplicated_count": 141,
       "note": "接口total与实际rows不一致"
     },
     {
@@ -12476,7 +12476,7 @@
       "reported_total": 12,
       "actual_rows": 13,
       "pages": 1,
-      "deduplicated_count": 150,
+      "deduplicated_count": 149,
       "note": "接口total与实际rows不一致"
     },
     {
@@ -12486,7 +12486,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 150,
+      "deduplicated_count": 149,
       "note": ""
     },
     {
@@ -12496,7 +12496,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 150,
+      "deduplicated_count": 149,
       "note": ""
     },
     {
@@ -12506,7 +12506,7 @@
       "reported_total": 1,
       "actual_rows": 1,
       "pages": 1,
-      "deduplicated_count": 150,
+      "deduplicated_count": 149,
       "note": ""
     },
     {
@@ -12516,7 +12516,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 150,
+      "deduplicated_count": 149,
       "note": ""
     },
     {
@@ -12526,7 +12526,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 150,
+      "deduplicated_count": 149,
       "note": ""
     },
     {
@@ -12536,7 +12536,7 @@
       "reported_total": 8,
       "actual_rows": 9,
       "pages": 1,
-      "deduplicated_count": 159,
+      "deduplicated_count": 158,
       "note": "接口total与实际rows不一致"
     },
     {
@@ -12546,7 +12546,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 159,
+      "deduplicated_count": 158,
       "note": ""
     },
     {
@@ -12556,7 +12556,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 159,
+      "deduplicated_count": 158,
       "note": ""
     },
     {
@@ -12566,7 +12566,7 @@
       "reported_total": 0,
       "actual_rows": 5,
       "pages": 1,
-      "deduplicated_count": 159,
+      "deduplicated_count": 158,
       "note": "接口total与实际rows不一致"
     },
     {
@@ -12576,7 +12576,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 159,
+      "deduplicated_count": 158,
       "note": ""
     },
     {
@@ -12586,7 +12586,7 @@
       "reported_total": 55,
       "actual_rows": 56,
       "pages": 3,
-      "deduplicated_count": 159,
+      "deduplicated_count": 158,
       "note": "接口total与实际rows不一致"
     },
     {
@@ -12596,7 +12596,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 159,
+      "deduplicated_count": 158,
       "note": ""
     },
     {
@@ -12606,7 +12606,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 159,
+      "deduplicated_count": 158,
       "note": ""
     },
     {
@@ -12616,7 +12616,7 @@
       "reported_total": 0,
       "actual_rows": 0,
       "pages": 1,
-      "deduplicated_count": 159,
+      "deduplicated_count": 158,
       "note": ""
     },
     {
@@ -12863,10 +12863,10 @@
       "category": "competition",
       "keyword": "全量列表+详情项目",
       "ok": true,
-      "reported_total": 129,
-      "actual_rows": 129,
+      "reported_total": 127,
+      "actual_rows": 127,
       "pages": 6,
-      "deduplicated_count": 129,
+      "deduplicated_count": 127,
       "note": ""
     },
     {
