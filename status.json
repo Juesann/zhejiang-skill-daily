@@ -1,9 +1,9 @@
 {
   "schema_version": "2.2",
-  "report_date": "2026-09-27",
-  "generated_at": "2026-09-27T08:20:03+08:00",
+  "report_date": "2026-09-28",
+  "generated_at": "2026-09-28T08:20:03+08:00",
   "complete": true,
-  "active_record_count": 315,
+  "active_record_count": 314,
   "first_seen_today_count": 0,
   "serious_quality_count": 12,
   "fields_pending_count": 91,
@@ -11,7 +11,7 @@
   "interfaces": {
     "training": {
       "ok": true,
-      "unique_before_filter": 152,
+      "unique_before_filter": 150,
       "source_type": "平台技能培训报名",
       "error_count": 0
     },
@@ -23,7 +23,7 @@
     },
     "competition": {
       "ok": true,
-      "unique_before_filter": 143,
+      "unique_before_filter": 137,
       "source_type": "平台技能竞赛报名",
       "error_count": 0
     },
