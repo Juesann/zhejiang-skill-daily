@@ -1,7 +1,7 @@
 {
   "schema_version": "2.2",
-  "report_date": "2026-10-04",
-  "generated_at": "2026-10-04T08:20:03+08:00",
+  "report_date": "2026-10-05",
+  "generated_at": "2026-10-05T08:20:03+08:00",
   "complete": true,
   "active_record_count": 396,
   "first_seen_today_count": 0,
@@ -23,7 +23,7 @@
     },
     "competition": {
       "ok": true,
-      "unique_before_filter": 156,
+      "unique_before_filter": 154,
       "source_type": "平台技能竞赛报名",
       "error_count": 0
     },
