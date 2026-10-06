@@ -1,37 +1,37 @@
 {
   "schema_version": "2.2",
-  "report_date": "2026-10-05",
-  "generated_at": "2026-10-05T08:20:03+08:00",
-  "complete": true,
-  "active_record_count": 396,
+  "report_date": "2026-10-06",
+  "generated_at": "2026-10-06T08:20:03+08:00",
+  "complete": false,
+  "active_record_count": 0,
   "first_seen_today_count": 0,
-  "serious_quality_count": 12,
-  "fields_pending_count": 145,
+  "serious_quality_count": 0,
+  "fields_pending_count": 0,
   "scope_note": "培训在关键词列表命中后逐条核验详情，仅保留目标取得证书含技能等级认定证书的计划；竞赛采用全量列表并逐条扫描竞赛项目详情。评价和专家培养继续按关键词扫描。page1认定公告和其他外部渠道本轮尚未接入，不计入完整性判断。",
   "interfaces": {
     "training": {
-      "ok": true,
-      "unique_before_filter": 171,
+      "ok": false,
+      "unique_before_filter": 0,
       "source_type": "平台技能培训报名",
-      "error_count": 0
+      "error_count": 24
     },
     "evaluation": {
-      "ok": true,
-      "unique_before_filter": 196,
+      "ok": false,
+      "unique_before_filter": 0,
       "source_type": "平台技能评价报名",
-      "error_count": 0
+      "error_count": 24
     },
     "competition": {
-      "ok": true,
-      "unique_before_filter": 154,
+      "ok": false,
+      "unique_before_filter": 0,
       "source_type": "平台技能竞赛报名",
-      "error_count": 0
+      "error_count": 1
     },
     "expert": {
-      "ok": true,
-      "unique_before_filter": 131,
+      "ok": false,
+      "unique_before_filter": 0,
       "source_type": "平台专家培养报名",
-      "error_count": 0
+      "error_count": 24
     }
   },
   "files": {
